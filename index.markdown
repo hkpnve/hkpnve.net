@@ -6,4 +6,4 @@ layout: home
 title: Home
 ---
 
-hkpnve
+The forum is archived by [PokeBeacon](https://proxy.archiver.hkpnve.pokebeacon.com/forum.php)
